@@ -1,0 +1,5 @@
+@media (min-width: 641px) and (max-width: 1000px) {
+  header .container .navbar {
+    display: none;
+  }
+}/*# sourceMappingURL=responsiv.css.map */
